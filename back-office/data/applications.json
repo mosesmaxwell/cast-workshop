@@ -1,0 +1,538 @@
+[
+    {
+        "href": "AAD/applications/106",
+        "name": "Arizona",
+        "technologies": [
+            "JEE",
+            "PL/SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/106/modules",
+            "name": "Modules of Arizona"
+        },
+        "snapshots": {
+            "href": "AAD/applications/106/snapshots",
+            "name": "Snapshots of Arizona"
+        },
+        "results": {
+            "href": "AAD/applications/106/results",
+            "name": "Results breakdown for Arizona by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.18"
+    },
+    {
+        "href": "AAD/applications/516",
+        "name": "Big Ben",
+        "technologies": [
+            "ABAP",
+            "CICS",
+            "Cobol",
+            "IMS",
+            "JCL",
+            "SAP SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/516/modules",
+            "name": "Modules of Big Ben"
+        },
+        "snapshots": {
+            "href": "AAD/applications/516/snapshots",
+            "name": "Snapshots of Big Ben"
+        },
+        "results": {
+            "href": "AAD/applications/516/results",
+            "name": "Results breakdown for Big Ben by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "67",
+        "adgVersion": "7.2.0"
+    },
+    {
+        "href": "AAD/applications/390",
+        "name": "BIO",
+        "technologies": [
+            ".Net",
+            "C++"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/390/modules",
+            "name": "Modules of BIO"
+        },
+        "snapshots": {
+            "href": "AAD/applications/390/snapshots",
+            "name": "Snapshots of BIO"
+        },
+        "results": {
+            "href": "AAD/applications/390/results",
+            "name": "Results breakdown for BIO by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.8"
+    },
+    {
+        "href": "AAD/applications/152",
+        "name": "Cars",
+        "technologies": [
+            "JEE",
+            "PL/SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/152/modules",
+            "name": "Modules of Cars"
+        },
+        "snapshots": {
+            "href": "AAD/applications/152/snapshots",
+            "name": "Snapshots of Cars"
+        },
+        "results": {
+            "href": "AAD/applications/152/results",
+            "name": "Results breakdown for Cars by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.14"
+    },
+    {
+        "href": "AAD/applications/168",
+        "name": "Cash Equity",
+        "technologies": [
+            "C",
+            "JEE",
+            "PL/SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/168/modules",
+            "name": "Modules of Cash Equity"
+        },
+        "snapshots": {
+            "href": "AAD/applications/168/snapshots",
+            "name": "Snapshots of Cash Equity"
+        },
+        "results": {
+            "href": "AAD/applications/168/results",
+            "name": "Results breakdown for Cash Equity by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.16"
+    },
+    {
+        "href": "AAD/applications/184",
+        "name": "CHOCOLATE",
+        "technologies": [
+            "ABAP",
+            "SAP SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/184/modules",
+            "name": "Modules of CHOCOLATE"
+        },
+        "snapshots": {
+            "href": "AAD/applications/184/snapshots",
+            "name": "Snapshots of CHOCOLATE"
+        },
+        "results": {
+            "href": "AAD/applications/184/results",
+            "name": "Results breakdown for CHOCOLATE by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "82751",
+        "adgVersion": "7.0.16"
+    },
+    {
+        "href": "AAD/applications/476",
+        "name": "Dream Team",
+        "technologies": [
+            ".Net",
+            "C++",
+            "JCL",
+            "JEE",
+            "PL/SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/476/modules",
+            "name": "Modules of Dream Team"
+        },
+        "snapshots": {
+            "href": "AAD/applications/476/snapshots",
+            "name": "Snapshots of Dream Team"
+        },
+        "results": {
+            "href": "AAD/applications/476/results",
+            "name": "Results breakdown for Dream Team by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "52",
+        "adgVersion": "7.2.0"
+    },
+    {
+        "href": "AAD/applications/3",
+        "name": "Financial",
+        "technologies": [
+            "ABAP",
+            "SAP SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/3/modules",
+            "name": "Modules of Financial"
+        },
+        "snapshots": {
+            "href": "AAD/applications/3/snapshots",
+            "name": "Snapshots of Financial"
+        },
+        "results": {
+            "href": "AAD/applications/3/results",
+            "name": "Results breakdown for Financial by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.10"
+    },
+    {
+        "href": "AAD/applications/301",
+        "name": "Firmeware",
+        "technologies": [
+            "ASP",
+            "C++",
+            "JEE",
+            "SQL Server"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/301/modules",
+            "name": "Modules of Firmeware"
+        },
+        "snapshots": {
+            "href": "AAD/applications/301/snapshots",
+            "name": "Snapshots of Firmeware"
+        },
+        "results": {
+            "href": "AAD/applications/301/results",
+            "name": "Results breakdown for Firmeware by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.8"
+    },
+    {
+        "href": "AAD/applications/176",
+        "name": "Investment",
+        "technologies": [
+            "JEE"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/176/modules",
+            "name": "Modules of Investment"
+        },
+        "snapshots": {
+            "href": "AAD/applications/176/snapshots",
+            "name": "Snapshots of Investment"
+        },
+        "results": {
+            "href": "AAD/applications/176/results",
+            "name": "Results breakdown for Investment by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "60501",
+        "adgVersion": "7.0.16"
+    },
+    {
+        "href": "AAD/applications/502",
+        "name": "Jurassic Park",
+        "technologies": [
+            ".Net",
+            "ABAP",
+            "JEE",
+            "SAP SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/502/modules",
+            "name": "Modules of Jurassic Park"
+        },
+        "snapshots": {
+            "href": "AAD/applications/502/snapshots",
+            "name": "Snapshots of Jurassic Park"
+        },
+        "results": {
+            "href": "AAD/applications/502/results",
+            "name": "Results breakdown for Jurassic Park by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "62",
+        "adgVersion": "7.2.0"
+    },
+    {
+        "href": "AAD/applications/211",
+        "name": "Lampara",
+        "technologies": [
+            "JEE",
+            "PL/SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/211/modules",
+            "name": "Modules of Lampara"
+        },
+        "snapshots": {
+            "href": "AAD/applications/211/snapshots",
+            "name": "Snapshots of Lampara"
+        },
+        "results": {
+            "href": "AAD/applications/211/results",
+            "name": "Results breakdown for Lampara by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.9"
+    },
+    {
+        "href": "AAD/applications/361",
+        "name": "LOAD",
+        "technologies": [
+            ".Net",
+            "C",
+            "C++"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/361/modules",
+            "name": "Modules of LOAD"
+        },
+        "snapshots": {
+            "href": "AAD/applications/361/snapshots",
+            "name": "Snapshots of LOAD"
+        },
+        "results": {
+            "href": "AAD/applications/361/results",
+            "name": "Results breakdown for LOAD by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "102401",
+        "adgVersion": "7.0.8"
+    },
+    {
+        "href": "AAD/applications/332",
+        "name": "Logistics",
+        "technologies": [
+            ".Net",
+            "C",
+            "C++"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/332/modules",
+            "name": "Modules of Logistics"
+        },
+        "snapshots": {
+            "href": "AAD/applications/332/snapshots",
+            "name": "Snapshots of Logistics"
+        },
+        "results": {
+            "href": "AAD/applications/332/results",
+            "name": "Results breakdown for Logistics by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "88701",
+        "adgVersion": "7.0.8"
+    },
+    {
+        "href": "AAD/applications/265",
+        "name": "PhoneBox",
+        "technologies": [
+            "C"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/265/modules",
+            "name": "Modules of PhoneBox"
+        },
+        "snapshots": {
+            "href": "AAD/applications/265/snapshots",
+            "name": "Snapshots of PhoneBox"
+        },
+        "results": {
+            "href": "AAD/applications/265/results",
+            "name": "Results breakdown for PhoneBox by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.8"
+    },
+    {
+        "href": "AAD/applications/161",
+        "name": "SAXO",
+        "technologies": [
+            "PHP",
+            "PL/SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/161/modules",
+            "name": "Modules of SAXO"
+        },
+        "snapshots": {
+            "href": "AAD/applications/161/snapshots",
+            "name": "Snapshots of SAXO"
+        },
+        "results": {
+            "href": "AAD/applications/161/results",
+            "name": "Results breakdown for SAXO by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "53",
+        "adgVersion": "7.0.17"
+    },
+    {
+        "href": "AAD/applications/422",
+        "name": "Siphonaptera",
+        "technologies": [
+            "C",
+            "C++"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/422/modules",
+            "name": "Modules of Siphonaptera"
+        },
+        "snapshots": {
+            "href": "AAD/applications/422/snapshots",
+            "name": "Snapshots of Siphonaptera"
+        },
+        "results": {
+            "href": "AAD/applications/422/results",
+            "name": "Results breakdown for Siphonaptera by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.8"
+    },
+    {
+        "href": "AAD/applications/249",
+        "name": "Six",
+        "technologies": [
+            "JEE",
+            "Oracle Server",
+            "PL/SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/249/modules",
+            "name": "Modules of Six"
+        },
+        "snapshots": {
+            "href": "AAD/applications/249/snapshots",
+            "name": "Snapshots of Six"
+        },
+        "results": {
+            "href": "AAD/applications/249/results",
+            "name": "Results breakdown for Six by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.8"
+    },
+    {
+        "href": "AAD/applications/491",
+        "name": "UCITS",
+        "technologies": [
+            ".Net",
+            "ASP",
+            "JCL",
+            "Microsoft T-SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/491/modules",
+            "name": "Modules of UCITS"
+        },
+        "snapshots": {
+            "href": "AAD/applications/491/snapshots",
+            "name": "Snapshots of UCITS"
+        },
+        "results": {
+            "href": "AAD/applications/491/results",
+            "name": "Results breakdown for UCITS by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "57",
+        "adgVersion": "7.2.0"
+    },
+    {
+        "href": "AAD/applications/72",
+        "name": "VICIA",
+        "technologies": [
+            "CLVCenter",
+            "JEE",
+            "PL/SQL"
+        ],
+        "systems": null,
+        "modules": {
+            "href": "AAD/applications/72/modules",
+            "name": "Modules of VICIA"
+        },
+        "snapshots": {
+            "href": "AAD/applications/72/snapshots",
+            "name": "Snapshots of VICIA"
+        },
+        "results": {
+            "href": "AAD/applications/72/results",
+            "name": "Results breakdown for VICIA by snapshots, by modules, by technologies"
+        },
+        "origin": null,
+        "adgDatabase": "portals_evian_central",
+        "adgWebSite": "./InfoNoDrillDown.htm",
+        "adgLocalId": "3",
+        "adgVersion": "7.0.18"
+    }
+]

@@ -1,0 +1,4082 @@
+[
+    {
+        "number": 15,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/106",
+            "name": "Arizona",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/106/snapshots/1112",
+            "name": "Arizona"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/1112",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.04085927973546,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/1112",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.15855036357493,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/1112",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.07172284211404,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/1112",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.6779694852373,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/1112",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.13581997305915,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/1112",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.94487380819745,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/1112",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.21702070629582,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/1112",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.78368792024798,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/1112",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.67378696415104,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/1112",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.83793468070854,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/1112",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.5679694852373003,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 16,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/516",
+            "name": "Big Ben",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/516/snapshots/6012",
+            "name": "Big Ben"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/6012",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.20431488035167,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/6012",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.18741696145316,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/6012",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.1081162868089,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/6012",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.96494787809262,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/6012",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.30203384649887,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/6012",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.0796089561326,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/6012",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.0879116251349,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/6012",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.07198972537635,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/6012",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.11503274513436,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/6012",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.22733923376706,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/6012",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.8549478780926199,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/390",
+            "name": "BIO",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/390/snapshots/4212",
+            "name": "BIO"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/4212",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.82239491079215,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/4212",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.89645788440195,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/4212",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.07145258167583,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/4212",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.01880990587412,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/4212",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.19712300115501,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/4212",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.04829811336932,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/4212",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.94991965840159,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/4212",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.04324429168521,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/4212",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.10361616255861,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/4212",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.93024456104885,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/4212",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.9088099058741197,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/152",
+            "name": "Cars",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/152/snapshots/2512",
+            "name": "Cars"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/2512",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.05556224558551,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/2512",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.1346509224739,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/2512",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.2808727148994,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/2512",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.9510154955064,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/2512",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.36846498281721,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/2512",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.91181069731224,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/2512",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.21236471598848,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/2512",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.95635219385749,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/2512",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.05367387630457,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/2512",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.01532584682549,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/2512",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.8410154955064,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 14,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/168",
+            "name": "Cash Equity",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/168/snapshots/2812",
+            "name": "Cash Equity"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/2812",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.33918746603259,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/2812",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.3346613871977,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/2812",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.48620274897765,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/2812",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.38993581786635,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/2812",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.55476101235949,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/2812",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.25978995419221,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/2812",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.2590649030831,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/2812",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.29935341428234,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/2812",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.4045178870425,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/2812",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.34823592201896,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/2812",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.2799358178663502,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 14,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/184",
+            "name": "CHOCOLATE",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/184/snapshots/3212",
+            "name": "CHOCOLATE"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/3212",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.24746594449738,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/3212",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.2118695187429,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/3212",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.99841392487338,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/3212",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.75951569147663,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/3212",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.28896141439624,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/3212",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.17717825912016,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/3212",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.11345596957578,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/3212",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.22533923278945,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/3212",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.16669647459535,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/3212",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.04025904903825,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/3212",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.6495156914766302,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 16,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/476",
+            "name": "Dream Team",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/476/snapshots/4812",
+            "name": "Dream Team"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/4812",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.81362892380015,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/4812",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.80277866276113,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/4812",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.78411637808094,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/4812",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.7942083907183,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/4812",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.83365810610016,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/4812",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.8774297318787,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/4812",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.79778663773268,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/4812",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.74845091309123,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/4812",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.77643125796974,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/4812",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.78800961386964,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/4812",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 1.6842083907182999,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 14,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/3",
+            "name": "Financial",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/3/snapshots/212",
+            "name": "Financial"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/212",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.78608526472532,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/212",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.85910825648947,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/212",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.74955796205466,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/212",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.34578230491015,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/212",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.90772238486722,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/212",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.92906421169302,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/212",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.73019984906299,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/212",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.80774941100353,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/212",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.66802235761519,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/212",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.56726879749597,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/212",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.23578230491015,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/301",
+            "name": "Firmeware",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/301/snapshots/3712",
+            "name": "Firmeware"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/3712",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.06270135916115,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/3712",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.979826046543,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/3712",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.14436508147327,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/3712",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.02514642984989,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/3712",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.23635196160552,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/3712",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.10766374825727,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/3712",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.08753459390416,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/3712",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.19246699513762,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/3712",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.99569386960497,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/3712",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.76635921309201,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/3712",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.91514642984989,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 14,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/176",
+            "name": "Investment",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/176/snapshots/3012",
+            "name": "Investment"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/3012",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.81899459606546,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/3012",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.99166917324261,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/3012",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.05285718658475,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/3012",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.24694133217198,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/3012",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.0534129006563,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/3012",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.99372392936145,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/3012",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.04587399598861,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/3012",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.10152168928642,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/3012",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.47265951215021,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/3012",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.43950511911416,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/3012",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.1369413321719803,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 16,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/502",
+            "name": "Jurassic Park",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/502/snapshots/5612",
+            "name": "Jurassic Park"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/5612",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.04245637314167,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/5612",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.00734663594535,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/5612",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.20190443617643,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/5612",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.93365139289393,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/5612",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.33512072987663,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/5612",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.02381640114279,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/5612",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.96945438969705,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/5612",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.92876691424362,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/5612",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.10849801631085,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/5612",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.87597373049918,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/5612",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.82365139289393,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/211",
+            "name": "Lampara",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/211/snapshots/3312",
+            "name": "Lampara"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/3312",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.25449428846453,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/3312",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.11194613714452,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/3312",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.16415366682461,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/3312",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.07362708970267,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/3312",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.01844195971176,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/3312",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.15949728628557,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/3312",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.95552902277815,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/3312",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.1659567993923,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/3312",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.93341589109384,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/3312",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.72025876327303,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/3312",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.96362708970267,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/361",
+            "name": "LOAD",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/361/snapshots/4112",
+            "name": "LOAD"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/4112",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.80978014227288,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/4112",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.02555923650171,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/4112",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.1219690836636,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/4112",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.02672321781161,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/4112",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.16216450435272,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/4112",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.24379884989116,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/4112",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.04881842361583,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/4112",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.00280573235501,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/4112",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.92480453755237,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/4112",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.53749532253633,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/4112",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.9167232178116103,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/332",
+            "name": "Logistics",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/332/snapshots/4012",
+            "name": "Logistics"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/4012",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.51447708382938,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/4012",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.82888591430924,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/4012",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.88621673927655,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/4012",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.89065754717166,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/4012",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.96814943529468,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/4012",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.9802913836924,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/4012",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.87916863491993,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/4012",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.88811219219788,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/4012",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.86772399627322,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/4012",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.62575316287021,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/4012",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.78065754717166,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/265",
+            "name": "PhoneBox",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/265/snapshots/3612",
+            "name": "PhoneBox"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/3612",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.378359391397,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/3612",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.37004677697887,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/3612",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.40079141441137,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/3612",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.71683848721116,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/3612",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.47422831046811,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/3612",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.6729148108524,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/3612",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.45231142992616,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/3612",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.35111056277836,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/3612",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.44481483205202,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/3612",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.27976813659587,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/3612",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.60683848721116,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/161",
+            "name": "SAXO",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/161/snapshots/2612",
+            "name": "SAXO"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/2612",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.8374059166972,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/2612",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.82478913625908,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/2612",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.70988646537139,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/2612",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.8124553616258,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/2612",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.69818046100295,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/2612",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.87830869276213,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/2612",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.77980683537505,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/2612",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.85014203677286,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/2612",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.84919841677164,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/2612",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.55944210905134,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/2612",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.7024553616258,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/422",
+            "name": "Siphonaptera",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/422/snapshots/4312",
+            "name": "Siphonaptera"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/4312",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.03337163831635,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/4312",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.94347902766596,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/4312",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.01814309767165,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/4312",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.53079102910419,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/4312",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.31381942969029,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/4312",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.18631255871919,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/4312",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.19271645527341,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/4312",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.15236148313856,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/4312",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.88619498941418,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/4312",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.0532068978014,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/4312",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.42079102910419,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/249",
+            "name": "Six",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/249/snapshots/3412",
+            "name": "Six"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/3412",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.09860058769161,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/3412",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.38450761665768,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/3412",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.33884451089346,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/3412",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.32230023382916,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/3412",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.30347604192379,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/3412",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.23963392434709,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/3412",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.35990552078414,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/3412",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.10857182012593,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/3412",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.08939892393069,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/3412",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.26638984130671,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/3412",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.21230023382916,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 16,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/491",
+            "name": "UCITS",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/491/snapshots/5212",
+            "name": "UCITS"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/5212",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.6019904711376,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/5212",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.21843152072047,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/5212",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.40526091258473,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/5212",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.47438877121514,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/5212",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.51498196954912,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/5212",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.02060635490715,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/5212",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.16747398085914,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/5212",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.3403725116604,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/5212",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.43048871723188,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/5212",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.38174664096865,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/5212",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.36438877121514,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    },
+    {
+        "number": 15,
+        "date": {
+            "time": 1393628400000
+        },
+        "application": {
+            "href": "AAD/applications/72",
+            "name": "VICIA",
+            "adgDatabase": "portals_evian_central"
+        },
+        "applicationSnapshot": {
+            "href": "AAD/applications/72/snapshots/512",
+            "name": "VICIA"
+        },
+        "applicationResults": [
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60011/snapshots/512",
+                    "name": "Transferability",
+                    "shortName": "Trsf",
+                    "key": "60011",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.20573668580148,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60012/snapshots/512",
+                    "name": "Changeability",
+                    "shortName": "Chng",
+                    "key": "60012",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.85373594856234,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60013/snapshots/512",
+                    "name": "Robustness",
+                    "shortName": "Rbst",
+                    "key": "60013",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.80774691701493,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60014/snapshots/512",
+                    "name": "Performance",
+                    "shortName": "Perf",
+                    "key": "60014",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.01885065363356,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60015/snapshots/512",
+                    "name": "SEI Maintainability",
+                    "shortName": "SEI",
+                    "key": "60015",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.96627171869791,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60016/snapshots/512",
+                    "name": "Security",
+                    "shortName": "Secu",
+                    "key": "60016",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.92431106278036,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/60017/snapshots/512",
+                    "name": "Technical Quality Index",
+                    "shortName": "TQI",
+                    "key": "60017",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.1471256483876,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66031/snapshots/512",
+                    "name": "Programming Practices",
+                    "shortName": "Prog",
+                    "key": "66031",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.01318381542061,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66032/snapshots/512",
+                    "name": "Architectural Design",
+                    "shortName": "Arch",
+                    "key": "66032",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 3.03101037373987,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/66033/snapshots/512",
+                    "name": "Documentation",
+                    "shortName": "Doc",
+                    "key": "66033",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.69482415707785,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            },
+            {
+                "type": "business-criteria",
+                "reference": {
+                    "href": "AAD/quality-indicators/20140522/snapshots/512",
+                    "name": "Green IT Index",
+                    "shortName": "GREEN",
+                    "key": "20140522",
+                    "gradeAggregators": null
+                },
+                "result": {
+                    "grade": 2.9088506536335603,
+                    "evolutionSummary": null,
+                    "boundaries": null
+                },
+                "technologyResults": [],
+                "moduleResults": []
+            }
+        ]
+    }
+]

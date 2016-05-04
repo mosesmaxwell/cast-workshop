@@ -1,0 +1,80 @@
+[
+    {
+        "key": "1",
+        "label": "Business Unit",
+        "tags": [
+            {
+                "key": "1",
+                "label": "Finance"
+            },
+            {
+                "key": "2",
+                "label": "HR"
+            },
+            {
+                "key": "3",
+                "label": "Operations"
+            },
+            {
+                "key": "4",
+                "label": "Research"
+            },
+            {
+                "key": "5",
+                "label": "Sales"
+            }
+        ]
+    },
+    {
+        "key": "2",
+        "label": "Country",
+        "tags": [
+            {
+                "key": "9",
+                "label": "China"
+            },
+            {
+                "key": "6",
+                "label": "France"
+            },
+            {
+                "key": "8",
+                "label": "India"
+            },
+            {
+                "key": "11",
+                "label": "Morocco"
+            },
+            {
+                "key": "10",
+                "label": "UK"
+            },
+            {
+                "key": "7",
+                "label": "US"
+            }
+        ]
+    },
+    {
+        "key": "3",
+        "label": "System Integrator",
+        "tags": [
+            {
+                "key": "12",
+                "label": "Integrator 1"
+            },
+            {
+                "key": "13",
+                "label": "Integrator 2"
+            },
+            {
+                "key": "14",
+                "label": "Integrator 3"
+            },
+            {
+                "key": "15",
+                "label": "Internal dev"
+            }
+        ]
+    }
+]

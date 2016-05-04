@@ -1,0 +1,115 @@
+.place-animation {
+    &.ng-enter, &.ng-leave {
+        -webkit-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+    }
+    &.ng-enter {
+        opacity: 0;
+        -webkit-transform: translate3d(20%, 10%, 1000px)rotateZ(10deg)rotateY(330deg);
+        transform: translate3d(20%, 10%, 1000px)rotateZ(10deg)rotateY(330deg);
+        &.ng-enter-active {
+            -webkit-transform: translate3d(0, 0, 0)rotateZ(0deg)rotateY(360deg);
+            transform: translate3d(0, 0, 0)rotateZ(0deg)rotateY(360deg);
+            opacity: 1;
+        }
+    }
+    &.ng-leave {
+        position: absolute;
+        opacity: 1;
+        width: 100%;
+        top: 0;
+        left: 0;
+        &.ng-leave-active {
+            opacity: 0;
+        }
+    }
+}
+
+// left-right slide animation
+.slide-animation {
+    &.ng-enter, &.ng-leave {
+        -webkit-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+        overflow: visible;
+    }
+}
+
+.forward .slide-animation {
+    &.ng-enter {
+        -webkit-transform: translate(100vw, 0);
+        -ms-transform: translate(100vw, 0);
+        transform: translate(100vw, 0);
+        &.ng-enter-active {
+            -webkit-transform: translate(0vw, 0);
+            -ms-transform: translate(0vw, 0);
+            transform: translate(0vw, 0);
+        }
+    }
+    &.ng-leave {
+        position: absolute;
+        width: 100%;
+        top: 0;
+        left: 0;
+        -webkit-transform: translate(0vw, 0);
+        -ms-transform: translate(0vw, 0);
+        transform: translate(0vw, 0);
+        &.ng-leave-active {
+            -webkit-transform: translate(-100vw, 0);
+            -ms-transform: translate(-100vw, 0);
+            transform: translate(-100vw, 0);
+        }
+    }
+}
+
+.backward .slide-animation {
+    &.ng-enter {
+        -webkit-transform: translate(-100vw, 0);
+        -ms-transform: translate(-100vw, 0);
+        transform: translate(-100vw, 0);
+        &.ng-enter-active {
+            -webkit-transform: translate(0vw, 0);
+            -ms-transform: translate(0vw, 0);
+            transform: translate(0vw, 0);
+        }
+    }
+    &.ng-leave {
+        position: absolute;
+        width: 100%;
+        top: 0;
+        left: 0;
+        -webkit-transform: translate(0vw, 0);
+        -ms-transform: translate(0vw, 0);
+        transform: translate(0vw, 0);
+        &.ng-leave-active {
+            -webkit-transform: translate(100vw, 0);
+            -ms-transform: translate(100vw, 0);
+            transform: translate(100vw, 0);
+        }
+    }
+}
+
+// up down slide animation
+.slide-up-down {
+    &.ng-leave {
+        position: absolute;
+        top: 0;
+        -webkit-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+        opacity: 1;
+        &.ng-leave-active {
+            top: -50px;
+            opacity: 0;
+        }
+    }
+    &.ng-enter {
+        position: absolute;
+        top: -50px;
+        opacity: 0;
+        -webkit-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+        &.ng-enter-active {
+            top: 0px;
+            opacity: 1;
+        }
+    }
+}

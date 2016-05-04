@@ -1,0 +1,538 @@
+[
+    {
+        "application": {
+            "href": "AAD/applications/106",
+            "name": "Arizona",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "JEE",
+            "PL/SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "1",
+                "label": "Finance"
+            },
+            {
+                "key": "13",
+                "label": "Integrator 2"
+            },
+            {
+                "key": "7",
+                "label": "US"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/516",
+            "name": "Big Ben",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "ABAP",
+            "CICS",
+            "Cobol",
+            "IMS",
+            "JCL",
+            "SAP SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "1",
+                "label": "Finance"
+            },
+            {
+                "key": "13",
+                "label": "Integrator 2"
+            },
+            {
+                "key": "7",
+                "label": "US"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/390",
+            "name": "BIO",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            ".Net",
+            "C++"
+        ],
+        "commonTags": [
+            {
+                "key": "1",
+                "label": "Finance"
+            },
+            {
+                "key": "14",
+                "label": "Integrator 3"
+            },
+            {
+                "key": "10",
+                "label": "UK"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/152",
+            "name": "Cars",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "JEE",
+            "PL/SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "1",
+                "label": "Finance"
+            },
+            {
+                "key": "8",
+                "label": "India"
+            },
+            {
+                "key": "14",
+                "label": "Integrator 3"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/168",
+            "name": "Cash Equity",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "C",
+            "JEE",
+            "PL/SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "1",
+                "label": "Finance"
+            },
+            {
+                "key": "15",
+                "label": "Internal dev"
+            },
+            {
+                "key": "7",
+                "label": "US"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/184",
+            "name": "CHOCOLATE",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "ABAP",
+            "SAP SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "1",
+                "label": "Finance"
+            },
+            {
+                "key": "6",
+                "label": "France"
+            },
+            {
+                "key": "13",
+                "label": "Integrator 2"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/476",
+            "name": "Dream Team",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            ".Net",
+            "C++",
+            "JCL",
+            "JEE",
+            "PL/SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "1",
+                "label": "Finance"
+            },
+            {
+                "key": "13",
+                "label": "Integrator 2"
+            },
+            {
+                "key": "7",
+                "label": "US"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/3",
+            "name": "Financial",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "ABAP",
+            "SAP SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "9",
+                "label": "China"
+            },
+            {
+                "key": "2",
+                "label": "HR"
+            },
+            {
+                "key": "12",
+                "label": "Integrator 1"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/301",
+            "name": "Firmeware",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "ASP",
+            "C++",
+            "JEE",
+            "SQL Server"
+        ],
+        "commonTags": [
+            {
+                "key": "9",
+                "label": "China"
+            },
+            {
+                "key": "2",
+                "label": "HR"
+            },
+            {
+                "key": "13",
+                "label": "Integrator 2"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/176",
+            "name": "Investment",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "JEE"
+        ],
+        "commonTags": [
+            {
+                "key": "14",
+                "label": "Integrator 3"
+            },
+            {
+                "key": "11",
+                "label": "Morocco"
+            },
+            {
+                "key": "3",
+                "label": "Operations"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/502",
+            "name": "Jurassic Park",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            ".Net",
+            "ABAP",
+            "JEE",
+            "SAP SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "14",
+                "label": "Integrator 3"
+            },
+            {
+                "key": "11",
+                "label": "Morocco"
+            },
+            {
+                "key": "3",
+                "label": "Operations"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/211",
+            "name": "Lampara",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "JEE",
+            "PL/SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "12",
+                "label": "Integrator 1"
+            },
+            {
+                "key": "3",
+                "label": "Operations"
+            },
+            {
+                "key": "10",
+                "label": "UK"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/361",
+            "name": "LOAD",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            ".Net",
+            "C",
+            "C++"
+        ],
+        "commonTags": [
+            {
+                "key": "13",
+                "label": "Integrator 2"
+            },
+            {
+                "key": "3",
+                "label": "Operations"
+            },
+            {
+                "key": "10",
+                "label": "UK"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/332",
+            "name": "Logistics",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            ".Net",
+            "C",
+            "C++"
+        ],
+        "commonTags": [
+            {
+                "key": "6",
+                "label": "France"
+            },
+            {
+                "key": "15",
+                "label": "Internal dev"
+            },
+            {
+                "key": "3",
+                "label": "Operations"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/265",
+            "name": "PhoneBox",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "C"
+        ],
+        "commonTags": [
+            {
+                "key": "8",
+                "label": "India"
+            },
+            {
+                "key": "13",
+                "label": "Integrator 2"
+            },
+            {
+                "key": "4",
+                "label": "Research"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/161",
+            "name": "SAXO",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "PHP",
+            "PL/SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "15",
+                "label": "Internal dev"
+            },
+            {
+                "key": "5",
+                "label": "Sales"
+            },
+            {
+                "key": "7",
+                "label": "US"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/422",
+            "name": "Siphonaptera",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "C",
+            "C++"
+        ],
+        "commonTags": [
+            {
+                "key": "6",
+                "label": "France"
+            },
+            {
+                "key": "15",
+                "label": "Internal dev"
+            },
+            {
+                "key": "5",
+                "label": "Sales"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/249",
+            "name": "Six",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "JEE",
+            "Oracle Server",
+            "PL/SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "12",
+                "label": "Integrator 1"
+            },
+            {
+                "key": "5",
+                "label": "Sales"
+            },
+            {
+                "key": "10",
+                "label": "UK"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/491",
+            "name": "UCITS",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            ".Net",
+            "ASP",
+            "JCL",
+            "Microsoft T-SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "9",
+                "label": "China"
+            },
+            {
+                "key": "2",
+                "label": "HR"
+            },
+            {
+                "key": "13",
+                "label": "Integrator 2"
+            }
+        ],
+        "ownTags": []
+    },
+    {
+        "application": {
+            "href": "AAD/applications/72",
+            "name": "VICIA",
+            "adgDatabase": "portals_evian_central"
+        },
+        "technologies": [
+            "CLVCenter",
+            "JEE",
+            "PL/SQL"
+        ],
+        "commonTags": [
+            {
+                "key": "15",
+                "label": "Internal dev"
+            },
+            {
+                "key": "11",
+                "label": "Morocco"
+            },
+            {
+                "key": "5",
+                "label": "Sales"
+            }
+        ],
+        "ownTags": []
+    }
+]
