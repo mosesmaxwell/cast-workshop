@@ -19,7 +19,7 @@
     $scope.title = 'Application Analytics Manager';
     $scope.$on('$stateChangeSuccess', function(event, toState, toParams, fromState, fromParams){
       if ( angular.isDefined( toState.data.pageTitle ) ) {
-        $scope.pageTitle = toState.data.pageTitle + ' | Price Tracker';
+        $scope.pageTitle = toState.data.pageTitle + ' | ' + $scope.title;
       }
     });
     
