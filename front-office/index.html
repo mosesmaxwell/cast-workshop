@@ -10,42 +10,30 @@
     <script type="text/javascript" src="<%= file %>"></script><% }); %>
   </head>
   <body class="forward">
+
     <div class="header">
-        <nav class="navbar navbar-default navbar-static-top custom-navbar" role="navigation">
-          <div class="container-fluid">
-            <button type="button" class="navbar-toggle collapsed" ng-init="menuCollapsed = true"
-              ng-click="menuCollapsed = ! menuCollapsed">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-
-            <div class="navbar-header">
-              <a class="navbar-brand" rel="home" href="#/" title="Help">
-                <span class="brand-title">{{title}}</span>
-              </a>
-            </div>
-
-            <!-- the collapsing menu -->
-            <div class="collapse navbar-collapse navbar-right custom-navlinks" collapse="menuCollapsed">
-              <ul class="nav navbar-nav">
-                <li ui-sref-active="active"><a href ui-sref="dashboard">Dashboard</a></li>
-              </ul>
-            </div>
-            <!--/.nav-collapse -->
-          </div>
-          <!--/.container -->
-        </nav>
+      <md-toolbar>
+        <div class="md-toolbar-tools">
+          <h2>
+            <span>{{title}}</span>
+          </h2>
+          <span flex></span>
+          <a href ui-sref="dashboard"><md-button md-no-ink class="md-raised md-warn menu-link">Dashboard</md-button></a>
+          <a href ui-sref="categories"><md-button md-no-ink class="md-raised md-warn menu-link">Categories</md-button></a>
+          <a href ui-sref="tags"><md-button md-no-ink class="md-raised md-warn menu-link">Tags</md-button></a>      
+        </div>
+      </md-toolbar>
     </div>
 
     <div layout="row" layout-align="start start">
-      <div class="side-navbar">
-
-      </div>
-      <div class="container">
-        <div ui-view="main" class="slide-animation" layout-padding></div>
-      </div>
+      <section layout="row" flex>
+          <md-content flex layout-padding>
+            <div layout="column" layout-fill layout-align="top center">
+              <div ui-view="main" class="slide-animation" layout-padding></div>
+            </div>
+            <div flex></div>
+          </md-content>
+        </section>
     </div>
 
     <div class="footer">

@@ -12,7 +12,7 @@
  * The dependencies block here is also where component dependencies should be
  * specified, as shown below.
  */
-angular.module( 'cast.dashboard', [
+angular.module( 'cast.details', [
   'ui.router',
   'ui.grid',
   'underscore'
@@ -24,26 +24,28 @@ angular.module( 'cast.dashboard', [
  * this way makes each module more "self-contained".
  */
 .config(function config( $stateProvider ) {
-  $stateProvider.state( 'dashboard', {
-    url: '/dashboard',
+  $stateProvider.state( 'details', {
+    url: '/details/:applicationId',
     views: {
       "main": {
-        controller: 'dashboardCtrl as model',
-        templateUrl: 'dashboard/dashboard.tpl.html'
+        controller: 'detailsCtrl',
+        templateUrl: 'details/details.tpl.html'
       }
     },
-    data:{ pageTitle: 'Dashboard' }
+    data:{ pageTitle: 'Application Details' }
   });
 })
 
 /**
  * And of course we define a controller for our route.
  */
-.controller( 'dashboardCtrl', function dashboardController( $scope, _, $state, applicationService) {
-  $scope.apps = []; $scope.appDetails = {};
-  applicationService.getApplicationList()
-  .then(function (data) {    
-        angular.forEach(data, function(row){
+.controller( 'detailsCtrl', function detailsCtrl( $scope, _, $stateParams, applicationDetailService) {
+  $scope.appDetails = [];
+  applicationDetailService.getApplication($stateParams.applicationId)
+  .then(function (data) { 
+        var _t = [];
+        _t[0] = data;
+        angular.forEach(_t, function(row){
           row.getModules = function() {
             return this.modules.name + ', ' + this.modules.href;
           };
@@ -60,13 +62,12 @@ angular.module( 'cast.dashboard', [
             return this.systems===null?"--":this.systems;
           };
         });
-        $scope.apps = data;
-
+        $scope.appDetails = _t;
   }, function ( data ) {
     //error function Attention required
   });
 
-  $scope.gridOptions = { 
+  $scope.detailOptions = { 
         enableSorting: true,
         columnDefs: [
               { name:'Href', field: 'href' },
@@ -80,35 +81,14 @@ angular.module( 'cast.dashboard', [
               { name:'Database', field: 'adgDatabase'},
               { name:'WebSite', field: 'adgWebSite'},
               { name:'LocalId', field: 'adgLocalId', width:60 },
-              { name:'Version', field: 'adgVersion', width:60 },
-              { name: 'View', displayName: 'View', cellTemplate: '<md-button md-no-ink class="md-primary menu-link" ng-click="grid.appScope.ShowDetails(row.entity.href)" >Detail</md-button> ', width:80 }
+              { name:'Version', field: 'adgVersion', width:60 }
             ],
-        data: 'apps'
-    };
-
-    $scope.ShowDetails = function(rowID) {
-        var _r = rowID.split("/");
-        $state.go('details', {
-          applicationId: _r[2]
-        });
+        data: 'appDetails'
     };
 })
 
-.service('applicationService', function ($http, $q) {
-    var applicationList = {},
-    categories = {},
-    tags = {};
-    this.getApplicationList = function () {
-        var def = $q.defer();
-        $http.get("/REST/applications")
-            .success(function (data) {
-                applicationList = data;
-                def.resolve(data);
-            }).error(function () {
-                def.reject("Failed to get applications");
-            });
-        return def.promise;
-    };
+.service('applicationDetailService', function ($http, $q) {
+    var applicationList = {};
     this.getApplication = function (options) {
         var def = $q.defer();
         $http.get("/REST/applications/"+options)
@@ -119,40 +99,7 @@ angular.module( 'cast.dashboard', [
                 def.reject("Failed to get application");
             });
         return def.promise;
-    }; 
-    this.getApplicationList = function () {
-        var def = $q.defer();
-        $http.get("/REST/applications")
-            .success(function (data) {
-                applicationList = data;
-                def.resolve(data);
-            }).error(function () {
-                def.reject("Failed to get applications");
-            });
-        return def.promise;
-    };
-    this.getCategories = function () {
-        var def = $q.defer();
-        $http.get("/REST/categories")
-            .success(function (data) {
-                categories = data;
-                def.resolve(data);
-            }).error(function () {
-                def.reject("Failed to get categories");
-            });
-        return def.promise;
-    };   
-    this.getTags = function () {
-        var def = $q.defer();
-        $http.get("/REST/tags")
-            .success(function (data) {
-                tags = data;
-                def.resolve(data);
-            }).error(function () {
-                def.reject("Failed to get tags");
-            });
-        return def.promise;
-    };            
+    };           
 });
 
 

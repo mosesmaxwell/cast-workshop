@@ -9,7 +9,7 @@ reasonable fashion.
 * install node if not installed already.
 * in project folder, in a shell, type
     * npm install // only the first time
-    * npm start // visit your application on http://localhost:3000 (by default)
+    * grunt watch or grunt watch --force // visit your application on http://localhost:portno (by default)
 
 Prestart action includes grunt compilations procedures in case you want to use e.g. coffeescript, linting, unit testing
 validation.

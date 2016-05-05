@@ -72,6 +72,8 @@ module.exports = {
       'vendor/angular-touch/angular-touch.js',
       'vendor/angular-ui-router/release/angular-ui-router.js',
       'vendor/angular-ui-utils/index.js',
+      'vendor/angular-ui-grid/ui-grid.js',
+      'vendor/underscore/underscore-min.js',
       'vendor/jquery/dist/jquery.js'
     ],
     css: [

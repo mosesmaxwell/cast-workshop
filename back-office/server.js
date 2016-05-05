@@ -8,7 +8,6 @@ the node server back-office is meant to be a REST API. First draft:
 */
 
 //Node Server written in ExpressJS
-'use strict';
 console.log('setup express server');
 
 var publicDir = 'bin';
@@ -65,10 +64,7 @@ server.get('/REST/categories', function (request, response) {fr('categories.json
 
 server.use(express.static(__dirname + "/" + publicDir));
 server.set('port', (process.env.PORT || 5000));
-server.listen(server.get('port'), function () {
-  console.log("Node app is running at localhost:" + server.get('port'));
-  console.log("public dir: " + __dirname + "/" + publicDir);
-});
+server.listen(server.get('port'));
 
 
 module.exports = server;
