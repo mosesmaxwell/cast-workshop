@@ -68,8 +68,9 @@ angular.module( 'cast.dashboard', [
 
   $scope.gridOptions = { 
         enableSorting: true,
+        enableFiltering: true,
         columnDefs: [
-              { name:'Href', field: 'href' },
+              { name:'Href', field: 'href'},
               { name:'Name', field: 'name' },
               { name:'Technologies', field: 'technologies.join(",")' },
               { name:'Systems', field: 'getSystems()', width:65 },

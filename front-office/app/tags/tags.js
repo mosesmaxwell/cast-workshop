@@ -52,6 +52,7 @@ angular.module( 'cast.tags', [
 
   $scope.tagsOptions = { 
         enableSorting: true,
+        enableFiltering: true,
         columnDefs: [
               { name:'Application', field: 'getApplication()' },
               { name:'Technologies', field: 'getTechnologies()' },

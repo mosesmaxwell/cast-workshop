@@ -58,6 +58,7 @@ angular.module( 'cast.categories', [
 
   $scope.catOptions = { 
         enableSorting: true,
+        enableFiltering: true,
         columnDefs: [
               { name:'No', field: 'key', width:50 },
               { name:'Name', field: 'label', width: 200 },

@@ -69,6 +69,7 @@ angular.module( 'cast.details', [
 
   $scope.detailOptions = { 
         enableSorting: true,
+        enableFiltering: true,
         columnDefs: [
               { name:'Href', field: 'href' },
               { name:'Name', field: 'name' },
