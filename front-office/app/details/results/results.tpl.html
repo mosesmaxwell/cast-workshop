@@ -1,0 +1,19 @@
+<div layout="column">
+	<div layout="row" layout-align="space-between start">
+		<h4>Application Results</h4>
+	</div>
+	<div class="result" layout="row" layout-align="space-between start">	
+		<ul>
+			<li>Number:</li>
+			<li>{{appDetails.number}}</li>
+			<li>Date:</li>
+			<li>{{appDetails.date.time | date:'yyyy-MM-dd HH:mm:ss Z' }}</li>
+			<li>Application Name/href/database:</li>
+			<li>{{appDetails.application.name}} - {{appDetails.application.href}} - {{appDetails.application.adgDatabase}}</li>
+			<li>Application Snapshot Name/href:</li>
+			<li>{{appDetails.applicationSnapshot.name}} - {{appDetails.applicationSnapshot.href}}</li>
+		</ul>
+		<a href ui-sref="details"><md-button md-no-ink class="menu-link">Back</md-button></a>
+	</div>
+	<div id="grid1" ui-grid="resultsOptions" class="rgrid"></div>
+</div>

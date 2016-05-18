@@ -15,7 +15,8 @@
 angular.module( 'cast.details', [
   'ui.router',
   'ui.grid',
-  'underscore'
+  'underscore',
+  'cast.details.results'
 ])
 
 /**
@@ -39,7 +40,7 @@ angular.module( 'cast.details', [
 /**
  * And of course we define a controller for our route.
  */
-.controller( 'detailsCtrl', function detailsCtrl( $scope, _, $stateParams, applicationDetailService) {
+.controller( 'detailsCtrl', function detailsCtrl( $scope, _, $stateParams, $state, applicationDetailService) {
   $scope.appDetails = [];
   applicationDetailService.getApplication($stateParams.applicationId)
   .then(function (data) { 
@@ -86,10 +87,16 @@ angular.module( 'cast.details', [
             ],
         data: 'appDetails'
     };
+
+    $scope.goResults = function() {
+      $state.go('details.results');
+    };
+    
 })
 
 .service('applicationDetailService', function ($http, $q) {
-    var applicationList = {};
+    var applicationList = {}, 
+    appId = undefined;
     this.getApplication = function (options) {
         var def = $q.defer();
         $http.get("/REST/applications/"+options)
@@ -100,7 +107,13 @@ angular.module( 'cast.details', [
                 def.reject("Failed to get application");
             });
         return def.promise;
-    };           
+    };
+    this.setApplicationId = function (id) {
+      appId = id;
+    };  
+    this.getApplicationId = function () {
+      return appId;
+    };         
 });
 
 

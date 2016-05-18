@@ -37,7 +37,8 @@
   'cast.dashboard',
   'cast.categories',
   'cast.tags',
-  'cast.details'
+  'cast.details',
+  'cast.details.results'
 ])));
 
 
